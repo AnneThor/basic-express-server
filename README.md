@@ -4,8 +4,8 @@ A simple and modular Express server
 
 ## Author: Anne Thorsteinson
 
-**[Tests]('https://github.com/AnneThor/basic-express-server/actions')
-** [Front End]('https://express-basic-server.herokuapp.com/')
+**[Tests](https://github.com/AnneThor/basic-express-server/actions)
+** [Front End](https://express-basic-server.herokuapp.com/)
 
 ## Setup
 
@@ -29,4 +29,4 @@ A simple and modular Express server
 
 ## UML Diagram 
 
-![UML diagram of basic express server project]('./LabClass02.png')
+![UML diagram of basic express server project](./LabClass02.png)
