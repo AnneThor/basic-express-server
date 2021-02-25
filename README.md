@@ -6,7 +6,7 @@ A simple and modular Express server
 
 **[Tests](https://github.com/AnneThor/basic-express-server/actions)**
 
-**[Front End](https://express-basic-server.herokuapp.com/)**
+**[Front End](https://express-basic-server.herokuapp.com/person?name=Anne)**
 
 ## Setup
 
