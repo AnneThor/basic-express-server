@@ -4,8 +4,9 @@ A simple and modular Express server
 
 ## Author: Anne Thorsteinson
 
-**[Tests](https://github.com/AnneThor/basic-express-server/actions)
-** [Front End](https://express-basic-server.herokuapp.com/)
+**[Tests](https://github.com/AnneThor/basic-express-server/actions)**
+
+**[Front End](https://express-basic-server.herokuapp.com/)**
 
 ## Setup
 
