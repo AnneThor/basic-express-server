@@ -12,6 +12,10 @@ app.get('/person', validator, (req, res) => {
   res.json({name: req.query.name});
 });
 
+app.get('/', (req, res) => {
+  res.status(200).send(`You're up and running!`)
+})
+
 app.use('*', notFound);
 app.use(errorHandler);
 
@@ -25,4 +29,3 @@ module.exports = {
   server: app,
   start: start,
 };
-
